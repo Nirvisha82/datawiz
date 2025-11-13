@@ -1,0 +1,69 @@
+{
+  "nodes": [
+    {
+      "file": ".gitignore",
+      "language": "",
+      "dependencies": [],
+      "exports": [],
+      "imports": []
+    },
+    {
+      "file": "server/.gitattributes",
+      "language": "",
+      "dependencies": [],
+      "exports": [],
+      "imports": []
+    },
+    {
+      "file": "server/.gitignore",
+      "language": "",
+      "dependencies": [],
+      "exports": [],
+      "imports": []
+    },
+    {
+      "file": "server/mvnw",
+      "language": "",
+      "dependencies": [],
+      "exports": [],
+      "imports": []
+    },
+    {
+      "file": "server/mvnw.cmd",
+      "language": "",
+      "dependencies": [],
+      "exports": [],
+      "imports": []
+    },
+    {
+      "file": "server/pom.xml",
+      "language": "xml",
+      "dependencies": [],
+      "exports": [],
+      "imports": []
+    },
+    {
+      "file": "server/src/main/java/com/datawiz/server/ServerApplication.java",
+      "language": "java",
+      "dependencies": [],
+      "exports": [],
+      "imports": []
+    },
+    {
+      "file": "server/src/main/resources/application.properties",
+      "language": "",
+      "dependencies": [],
+      "exports": [],
+      "imports": []
+    },
+    {
+      "file": "server/src/test/java/com/datawiz/server/ServerApplicationTests.java",
+      "language": "java",
+      "dependencies": [],
+      "exports": [],
+      "imports": []
+    }
+  ],
+  "generated_at": "2025-11-13T16:06:09.7461948-05:00",
+  "repo_url": ""
+}
